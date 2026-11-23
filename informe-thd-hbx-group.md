@@ -2,7 +2,7 @@
 
 # Informe THD: HBX Group (Hotelbeds)
 
-**Autores:** Manel [apellidos] y Sergi [apellidos]
+**Autores:** Manel Ortiz y Sergi Gregorio
 
 **Fecha:** 23 de noviembre de 2026
 

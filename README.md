@@ -2,7 +2,7 @@
 
 Informe técnico sobre las **tecnologías habilitadoras digitales (THD)** presentes en **HBX Group**, empresa TIC (*TravelTech*) con sede en Palma (Islas Baleares).
 
-**Módulo:** 1º DAW - DIGI · **Integrantes:** Manel y Sergi
+**Módulo:** 1º DAW - DIGI · **Integrantes:** Manel Ortiz y Sergi Gregorio
 
 ## Entrega
 
@@ -28,8 +28,8 @@ Informe técnico sobre las **tecnologías habilitadoras digitales (THD)** presen
 
 | Integrante | Rama | Partes del informe |
 |---|---|---|
-| Sergi | `sergi` | Portada, datos de la empresa, resumen ejecutivo, THD 1 (cloud) y THD 2 (Big Data) |
-| Manel | `manel` | THD 3 (IA), THD 4 (ciberseguridad), THD 5 (IoT), THD no utilizadas, esquema IT-OT, conclusiones y fuentes |
+| Sergi Gregorio | `sergi` | Portada, datos de la empresa, resumen ejecutivo, THD 1 (cloud) y THD 2 (Big Data) |
+| Manel Ortiz | `manel` | THD 3 (IA), THD 4 (ciberseguridad), THD 5 (IoT), THD no utilizadas, esquema IT-OT, conclusiones y fuentes |
 | Ambos | `entrega-final` | Unión de las secciones en un único documento y exportación a PDF (rama nueva creada tras fusionar las anteriores en `main`) |
 
 Flujo seguido:
@@ -38,3 +38,4 @@ Flujo seguido:
 2. Cada integrante crea su rama de trabajo desde `main` y sube sus secciones.
 3. Cada rama se fusiona (*merge*) en `main` mediante una *pull request*.
 4. Para los cambios posteriores a la fusión (unir el informe y generar el PDF) se crea una rama nueva, `entrega-final`, que también se fusiona en `main`.
+5. La corrección de los apellidos en la portada se hizo en otra rama nueva, `correccion-portada`, fusionada también en `main`.
